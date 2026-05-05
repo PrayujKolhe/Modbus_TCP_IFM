@@ -1,5 +1,7 @@
 # 🚀 Modbus TCP Performance Benchmarking on ifm CR413S Controller
 
+This Project was developed and tested using CODESYS V3.5 SP18 Patch 0.
+
 ## 📌 Project Overview
 This project focuses on benchmarking and analyzing the **Modbus TCP communication performance** of the **ifm CR413S Controller** using **CODESYS**.  
 
